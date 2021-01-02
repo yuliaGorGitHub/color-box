@@ -21,7 +21,7 @@ function ColorBox () {
         if (counter == 5)
           addNewClass("c-box c-box-round"); 
 
-        if (counter == 10)
+        if (counter == 9)
             clearInterval(myInterval); 
 
         }, 500);     
