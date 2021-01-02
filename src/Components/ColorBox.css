@@ -1,0 +1,14 @@
+.c-box 
+{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.c-box-round {
+    border-radius: 50%;
+}
+
+.c-box-square {
+    border-radius: none;
+}
